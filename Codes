@@ -1,0 +1,205 @@
+Python:-
+        
+alien_0 = {'colour': 'Green', 'health': 100, 'points': 15, 'numbers': 1880}
+alien_1 = {'colour': 'Light Green', 'health': 200, 'points': 30, 'numbers': 1850}
+alien_2 = {'colour': 'Dark Green', 'health': 300, 'points': 45, 'numbers': 1820}
+alien_3 = {'colour': 'Yellow', 'health': 400, 'points': 60, 'numbers': 1790}
+alien_4 = {'colour': 'Light Yellow', 'health': 500, 'points': 75, 'numbers': 1760}
+alien_5 = {'colour': 'Dark Yellow', 'health': 600, 'points': 90, 'numbers': 1730}
+alien_6 = {'colour': 'Orange', 'health': 700, 'points': 105, 'numbers': 1700}
+alien_7 = {'colour': 'Light Orange', 'health': 800, 'points': 120, 'numbers': 1670}
+alien_8 = {'colour': 'Dark Orange', 'health': 900, 'points': 135, 'numbers': 1640}
+alien_9 = {'colour': 'Red', 'health': 1000, 'points': 150, 'numbers': 1610}
+alien_10 = {'colour': 'Light Red', 'health': 1111, 'points': 175, 'numbers': 1580}
+alien_11 = {'colour': 'Dark Red', 'health': 1222, 'points': 200, 'numbers': 1550}
+alien_12 = {'colour': 'Pink', 'health': 1333, 'points': 225, 'numbers': 1520}
+alien_13 = {'colour': 'Light Pink', 'health': 1444, 'points': 250, 'numbers': 1490}
+alien_14 = {'colour': 'Dark Pink', 'health': 1555, 'points': 275, 'numbers': 1460}
+alien_15 = {'colour': 'Brown', 'health': 1666, 'points': 300, 'numbers': 1430}
+alien_16 = {'colour': 'Light Brown', 'health': 1777, 'points': 325, 'numbers': 1400}
+alien_17 = {'colour': 'Dark Brown', 'health': 1888, 'points': 350, 'numbers': 1370}
+alien_18 = {'colour': 'Black', 'health': 1999, 'points': 375, 'numbers': 1340}
+alien_19 = {'colour': 'White', 'health': 2000, 'points': 400, 'numbers': 1310}
+alien_20 = {'colour': 'Purple', 'health': 2111, 'points': 425, 'numbers': 1280}
+alien_21 = {'colour': 'Light Purple', 'health': 2222, 'points': 450, 'numbers': 1250}
+alien_22 = {'colour': 'dark Purple', 'health': 2333, 'points': 475, 'numbers': 1220}
+alien_23 = {'colour': 'Cyan', 'health': 2444, 'points': 500, 'numbers': 1190}
+alien_24 = {'colour': 'Gray', 'health': 2555, 'points': 525, 'numbers': 1160}
+alien_25 = {'colour': 'Magenta', 'health': 2666, 'points': 550, 'numbers': 1130}
+alien_26 = {'colour': 'Terquoise', 'health': 2777, 'points': 575, 'numbers': 1100}
+alien_27 = {'colour': 'Teal', 'health': 2888, 'points': 600, 'numbers': 1070}
+alien_28 = {'colour': 'Indigo', 'health': 2999, 'points': 625, 'numbers': 1040}
+alien_29 = {'colour': 'Maroon', 'health': 3000, 'points': 650, 'numbers': 1010}
+alien_30 = {'colour': 'Lavender', 'health': 3111, 'points': 675, 'numbers': 990}
+alien_31 = {'colour': 'Coral', 'health': 3222, 'points': 700, 'numbers': 960}
+alien_32 = {'colour': 'Gold', 'health': 3333, 'points': 725, 'numbers': 930}
+alien_33 = {'colour': 'Silver', 'health': 3444, 'points': 750, 'numbers': 900}
+alien_34 = {'colour': 'Emerald', 'health': 3555, 'points': 775, 'numbers': 870}
+alien_35 = {'colour': 'Ruby', 'health': 3666, 'points': 800, 'numbers': 840}
+alien_36 = {'colour': 'Sapphire', 'health': 3777, 'points': 825, 'numbers': 810}
+alien_37 = {'colour': 'Pearl', 'health': 3888, 'points': 850, 'numbers': 780}
+alien_38 = {'colour': 'Violet', 'health': 3999, 'points': 875, 'numbers': 750}
+alien_39 = {'colour': 'Olive', 'health': 4000, 'points': 900, 'numbers': 720}
+alien_40 = {'colour': 'Plum', 'health': 4111, 'points': 925, 'numbers': 690}
+alien_41 = {'colour': 'Mauve', 'health': 4222, 'points': 950, 'numbers': 660}
+alien_42 = {'colour': 'Salmon', 'health': 4333, 'points': 975, 'numbers': 630}
+alien_43 = {'colour': 'Sky Blue', 'health': 4444, 'points': 1000, 'numbers': 600}
+alien_44 = {'colour': 'Chartreuse', 'health': 4555, 'points': 1100 , 'numbers': 570}
+alien_45 = {'colour': 'Fuchsia', 'health': 4666, 'points': 1200, 'numbers': 540}
+alien_46 = {'colour': 'Crimson', 'health': 4777, 'points': 1300, 'numbers': 510}
+alien_47 = {'colour': 'Beige', 'health': 4888, 'points': 1400, 'numbers': 480}
+alien_48 = {'colour': 'Lilac', 'health': 4999, 'points': 1500, 'numbers': 450}
+alien_49 = {'colour': 'Apricot', 'health': 5000, 'points': 1600, 'numbers': 420}
+alien_50 = {'colour': 'Aqua', 'health': 5111, 'points': 1700, 'numbers': 390}
+alien_51 = {'colour': 'Mint Green', 'health': 5222, 'points': 1800, 'numbers': 360}
+alien_52 = {'colour': 'Orchid', 'health': 5333, 'points': 1900, 'numbers': 330}
+alien_53 = {'colour': 'Slate Gray', 'health': 5444, 'points': 2000, 'numbers': 300}
+alien_54 = {'colour': 'Sienna', 'health': 5555, 'points': 2100, 'numbers': 270}
+alien_55 = {'colour': 'Blue', 'health': 5666, 'points': 2200, 'numbers': 240}
+alien_56 = {'colour': 'Navy Blue', 'health': 5777, 'points': 2300, 'numbers': 210}
+alien_57 = {'colour': 'Mustard', 'health': 5888, 'points': 2400, 'numbers': 180}
+alien_58 = {'colour': 'Steel Blue', 'health': 5999, 'points': 2500, 'numbers': 150}
+alien_59 = {'colour': 'Rust', 'health': 6000, 'points': 2600, 'numbers': 120}
+alien_60 = {'colour': 'Teal green', 'health': 6111, 'points': 2700, 'numbers': 90}
+alien_61 = {'colour': 'Coral pink', 'health': 6222, 'points': 2800, 'numbers': 60}
+alien_62 = {'colour': 'Burnt orange', 'health': 6333, 'points': 2900, 'numbers': 30 }
+
+aliens = [alien_0, alien_1, alien_2, alien_3, alien_4, alien_5, alien_6, alien_7, alien_8, alien_9, alien_10, alien_11, alien_12, alien_13, alien_14, alien_15, alien_16, alien_17, alien_18, alien_19, alien_20, alien_21, alien_22, alien_23, alien_24, alien_25, alien_26, alien_27, alien_28, alien_29, alien_30, alien_31, alien_32, alien_33, alien_34, alien_35, alien_36, alien_37, alien_38, alien_39, alien_40, alien_41, alien_42, alien_43, alien_44, alien_45, alien_46, alien_47, alien_48, alien_49, alien_50, alien_51, alien_52, alien_53, alien_54, alien_55, alien_56, alien_57, alien_58, alien_59, alien_60, alien_61, alien_62]
+
+for alien in aliens:
+    print(f"There are {alien['numbers']} {alien['colour']} aliens which provide " +
+          f"{alien['points']} points and have a health of {alien['health']}.\n")
+
+name =input("Pleasse tell us what's your name:")
+message =input("Please tell us what all you want and tell us in brief:")
+print(f"\nHello, {name} !")
+print(f"\nTell us what you want:\n {message}.")
+
+prompt = "If you tell us who you are, we can personalize the messages you see."
+prompt +="\nWhat is your first name? "
+
+name = input(prompt)
+print(f"\nHello, {name} !")
+
+name = input("Please enter your name:")
+print(f"\nHello, {name}")
+
+message = input("Tell me something, and I will repeat it back to you:")
+print(message)
+
+alien_0 = {'colour': 'Green', 'health': 100, 'points': 15, 'numbers': 500}
+alien_1 = {'colour': 'Yellow', 'health': 200, 'points': 30, 'numbers': 450}
+alien_2 = {'colour': 'Pink', 'health': 300, 'points': 45, 'numbers': 400}
+alien_3 = {'colour': 'Red', 'health': 400, 'points': 60, 'numbers': 350}
+alien_4 = {'colour': 'Grey', 'health': 500, 'points': 75, 'numbers': 300}
+alien_5 = {'colour': 'Black', 'health': 600, 'points': 90, 'numbers': 250}
+alien_6 = {'colour': 'White', 'health': 700, 'points': 105, 'numbers': 200}
+alien_7 = {'colour': 'Blue', 'health': 800, 'points': 120, 'numbers': 150}
+alien_8 = {'colour': 'Silver', 'health': 900, 'points': 135, 'numbers': 100}
+alien_9 = {'colour': 'Gold', 'health': 1000, 'points': 150, 'numbers': 50}
+
+aliens = [alien_0, alien_1, alien_2, alien_3, alien_4, alien_5, alien_6, alien_7, alien_8, alien_9]
+
+for alien in aliens:
+    print(f"There are {alien['numbers']} {alien['colour']} aliens which provide " +
+          f"{alien['points']} points and have a health of {alien['health']}.\n")
+
+cities = {
+    'new york': {'country':'United States', 'population':8.4, 'fact':'more than 800 languages are spoken in NYC'},
+    'london': {'country':'United Kingdom', 'population':8.9, 'fact':'capital of the UK'},
+    'berlin': {'country':'Germany', 'population':3.6, 'fact':'was separated by the Berlin Wall'},
+}
+for city, details in cities.items():
+    print(f"{city.title()} is located in {details['country']}, has a population of ~{details['population']} million.")
+    print(f"Fact about {city.title()}: {details['fact']}\n")
+
+favourite_numbers = {
+    'Sufyan': [3, 5, 7, 9],
+    'Idrees': [2, 4, 6, 8],
+    'Noor':[1, 3, 5, 7, 11]
+}
+for name, numbers in favourite_numbers.items():
+  print(f"{name.title()}'s favourite numbers are:")
+  for number in numbers:
+    print(f"\t{number}.")
+  print("\n")
+
+favourite_places = {
+    'Sufyan': ['Saudiarabia','Islamabad'],
+    'Idrees': ['Saudiarabia'],
+    'Noor': ['Deri','Islamabad','Saudiarabia'],
+}
+for name, places in favourite_places.items():
+  print(f"{name.title()}'s favourite places are:")
+  for place in places:
+    print(f"\t{place.title()}.")
+  print(f"\n")
+
+pet_0 = {'animal':'cat','owner':'Siam'}
+pet_1 = {'animal':'cow','owner':'Liala'}
+pets = [pet_0,pet_1]
+for pet in pets:
+  print(f"The animal name is {pet['animal']} and the owner is {pet['owner']}.")
+
+person_0 = {'first name':'Sufyan','last name':'Idrees','age':14,'location':'F18'}
+person_1 = {'first name':'Idrees','last name':'Noor','age':40,'location':'F18'}
+person_2 = {'first name':'Noor','last name':'Muhammad','age':70,'location':'F18'}
+
+people = [person_0,person_1,person_2]
+
+for person in people:
+  for k, v in person.items():
+    print(f"{k}: {v}")
+  print("\n")
+
+people = {
+    'SufyanIdrees': {
+        'first name': 'Sufyan',
+        'last name': 'Idrees',
+        'location': 'F18',
+    },
+    'IdreesNoor': {
+        'first name': 'Idrees',
+        'last name': 'Noor',
+        'location': 'Dog Hamida',
+    },
+    'NoorMuhammad': {
+        'first name': 'Noor',
+        'last name': 'Muhammad',
+        'location': 'Malakand',
+    },
+}
+
+for username, user_info in people.items():
+    print(f"\nUsername: {username}.")
+    full_name = f"{user_info['first name']} {user_info['last name']}"
+    location = user_info['location']
+    print(f"\nFull name: {full_name.title()}")
+    print(f"\nLocation: {location.title()}")
+
+users = {
+    'SufyanIdrees':{
+        'first':'Sufyan',
+        'last':'Idrees',
+        'location':'F18',
+    },
+    'IdreesNoor':{
+        'first':'Idrees',
+        'last':'Noor',
+        'location':'F18',  
+    },
+}
+for username, user_info in users.items():
+    print(f"\nUsername: {username}.")
+    full_name = f"{user_info['first']} {user_info['last']}"
+    location = user_info['location']   
+    print(f"\nFull name: {full_name.title()}")
+    print(f"\nLocation: {location.title()}")
+
+pizza = {
+    'crust':'thick',
+    'toppings':['mushrooms','extra cheese'],
+}
+print(f"You ordered a {pizza['crust']}-crust pizza with the following toppings:")
+for topping in pizza ['toppings']:
+  print(f"\t{topping}")
