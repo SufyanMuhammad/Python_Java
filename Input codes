@@ -1,0 +1,3 @@
+print("*******************")
+n=input("Enter Ur Name")
+print("Ur name is....",n)
